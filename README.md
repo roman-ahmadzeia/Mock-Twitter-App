@@ -3,6 +3,11 @@
 
 ## This app has many extended features that make the app a responsive and fun app to explore.
 
+## How to run app:
+### - open Android Studio or XCode Or VSC
+### - have flutter running on your path, make sure you are in flutter app directory 'twitter'
+### - run 'flutter run' in terminal, watch app open :)
+
 ### Features Added✅
 ### - The ability for a user to create a post with a username, name, tweet, and optional image.📸
 ### - The ability to like, retweet, and bookmark a tweet. (all bookmarked tweets get sent to top of feed using SQL Queries)❤️
